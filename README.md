@@ -1,4 +1,4 @@
-# Groq-Powered Chatbots with Streamlit 🚀
+# Trained and tuned Project repository 🚀
 
 This README provides step-by-step instructions to run two Python scripts, `llm.py` and `rag.py`, which leverage the Groq API for building intelligent chatbots.
 
